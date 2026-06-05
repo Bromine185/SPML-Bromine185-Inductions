@@ -1,0 +1,11 @@
+true_class,correct_count,most_confused_with,confused_count
+T-shirt/top,760,Shirt,64
+Trouser,899,Dress,19
+Pullover,637,Coat,139
+Dress,783,Coat,44
+Coat,714,Shirt,63
+Sandal,844,Sneaker,36
+Shirt,508,T-shirt/top,158
+Sneaker,864,Ankle boot,32
+Bag,870,Dress,14
+Ankle boot,873,Sneaker,24
